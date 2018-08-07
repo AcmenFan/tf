@@ -3,14 +3,15 @@
   <groupId>com.advance.ai</groupId>
   <artifactId>tf</artifactId>
   <versioning>
-    <release>1.4_test</release>
+    <release>1.5_test</release>
     <versions>
       <version>1.0_test</version>
       <version>1.1_test</version>
       <version>1.2_test</version>
       <version>1.3_test</version>
       <version>1.4_test</version>
+      <version>1.5_test</version>
     </versions>
-    <lastUpdated>20180807114839</lastUpdated>
+    <lastUpdated>20180807120526</lastUpdated>
   </versioning>
 </metadata>
