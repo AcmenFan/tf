@@ -3,7 +3,7 @@
   <groupId>com.advance.ai</groupId>
   <artifactId>tf</artifactId>
   <versioning>
-    <release>1.9_test</release>
+    <release>2.0_test</release>
     <versions>
       <version>1.0_test</version>
       <version>1.1_test</version>
@@ -15,7 +15,8 @@
       <version>1.7_test</version>
       <version>1.8_test</version>
       <version>1.9_test</version>
+      <version>2.0_test</version>
     </versions>
-    <lastUpdated>20180809060946</lastUpdated>
+    <lastUpdated>20180827064517</lastUpdated>
   </versioning>
 </metadata>
